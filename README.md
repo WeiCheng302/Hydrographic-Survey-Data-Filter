@@ -11,3 +11,4 @@ First, it kicks out the big errors . Then select the value when the value whose 
 #### `pola.py`
 To interpolate thepoint file got from * delete.py *
 
+  * Python 3.7
