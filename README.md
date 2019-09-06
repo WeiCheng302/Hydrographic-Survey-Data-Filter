@@ -5,10 +5,11 @@ In this program, we tried only get one point depth value on one GPS position.
 
 #### `delete.py`
 
-First, it kicks out the big errors . Then select the value when the value whose GPS position changes from one to another.
+It kicks out the big errors .
 
 
 #### `pola.py`
-To interpolate thepoint file got from * delete.py *
+To select the value when the value whose GPS position changes from one to another, for the
+point file got from * delete.py *
 
   * Python 3.7
